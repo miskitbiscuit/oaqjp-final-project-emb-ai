@@ -1,4 +1,4 @@
-import requests # Import requests library to handle HTTP requests
+import requests
 import json
 
 # Define emotion_detector function that takes string input (text_to_analyze)
